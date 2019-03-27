@@ -1,0 +1,1 @@
+Le script pour créer les différents privilèges fonctionne

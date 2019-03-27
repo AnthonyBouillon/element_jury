@@ -1,0 +1,1 @@
+Dans le script d'exportation au format csv : penser à changer le chemin pour la présentation

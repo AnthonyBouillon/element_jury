@@ -1,0 +1,1 @@
+Le script d'insertion de données fonctionne sur les deux scripts de creation de base de données

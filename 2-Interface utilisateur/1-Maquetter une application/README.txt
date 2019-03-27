@@ -1,0 +1,1 @@
+Maquette de toutes les fonctionnalités (page) doit être conforme au cahier des charges

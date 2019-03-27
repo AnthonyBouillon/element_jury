@@ -1,0 +1,12 @@
+Pré-requis : mysql installé. (ou autre SGBD)
+Créer un dossier pour stocker le script
+
+Se trouver dans le dossier où ce trouve mysqldump.exe : cd C:\Program Files\MariaDB 10.2\bin 
+OU 
+créer une variable d'environnement pour le faire de n'importe où
+
+Sauvegarde
+mysqldump --user=root --password=leqxd777 --databases fil_rouge > C:\Backup\backup_fil_rouge.sql
+
+Restauration
+mysql --user=root --password=leqxd777 fil_rouge < C:\Backup\backup_fil_rouge.sql

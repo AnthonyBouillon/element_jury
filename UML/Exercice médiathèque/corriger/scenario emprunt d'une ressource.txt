@@ -1,0 +1,34 @@
+﻿Enregistrement d'un emprunt
+
+Conditions:
+L'usager est inscrit
+
+
+Le documentaliste demande la création d'un nouvel emprunt
+Le système affiche un formulaire permettant de saisir le code usager
+ou affiche une liste d'usagers
+
+Le documentaliste entre le code de l usager
+Le système affiche les details de l usager (Cas 1)
+
+Le documentaliste valide la fiche de l usager
+Le système affiche un formulaire pour saisir le cote de la ressource
+
+Le documentaliste entre  la cote de la ressource
+Le système affiche les details de la ressource (Cas 3)
+
+Le documentaliste valide la ressource
+Le systeme affiche le recap de l emprunt
+
+Le documentaliste valide l emprunt ou entre la cote dune autre ressource
+Le systeme imprime et enregistre l emprunt
+
+
+Cas 1: La cotisation de l'usager n'est pas en regle
+
+
+
+Cas 2: Les coordonnées de l'usager sont incorrects
+
+Cas 3: La ressource necessite le paiement d'une caution
+

@@ -1,0 +1,31 @@
+Scénario principal
+
+L'usager fait une recherche de documents sur poste informatique
+Le système affiche les informations des documents qui sont disponible
+L'usager après avoir trouver son bonheur va chercher un CD-ROM au guichet
+l'employé demande sa carte de lecteur ainsi qu'une caution en échange du CD-ROM
+l'employé enregistre dans le système la cote du document et le numéro du lecteur
+le système génère une fiche de pret
+
+
+
+
+
+
+
+
+Scénario alternatif
+
+L'usager fait une recherche de documents sur poste informatique
+Le système affiche les informations des documents qui sont disponible
+L'usager après avoir trouver son bonheur va chercher un CD-ROM au guichet
+--------------------------------------------------------------------------
+l'employé demande sa carte de lecteur ainsi qu'une caution en échange du CD-ROM
+L'usager n'a pas de carte de lecteur
+l'employé inscrit dans le système le nouveau lecteur afin de générer sa carte
+le système affiche le formulaire d'inscription
+l'employé remplis le formulaire d'inscription
+le système insert dans la base de données ses informations
+le système génère une carte de lecteur
+l'employé donne la carte de lecteur à l'usagé
+le processus peut reprendre

@@ -1,0 +1,1 @@
+Le script généré à partir du MLD et le script créer manuellement correspondent
